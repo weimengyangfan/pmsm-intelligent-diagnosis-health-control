@@ -1,6 +1,6 @@
 {
   ".gitignore": "a18f265af3ac53566645511258ba80a5fac9303c397ca7dc812dd761090765b5",
-  "README.md": "6a4943477e3197099d4ecb832cf533a5c0c4531bf2c4a8443abbd851da2f90db",
+  "README.md": "c719f56dac749a17d2fe7601a8bec107557b5b119cc7978786eeab97e61b467c",
   "SOURCE_MAP.json": "2a27bbcf673f24fe5b6e140f4648cf63bd698838e13edd6ad56d4fcd847a0f1a",
   "THIRD_PARTY.md": "14e10b2ff8365217016d51ae3dd25f7b67f381f0d9b08655592c73a4a08e0aea",
   "board/motor_bias_mlp17_logits_ZG.json": "8b7b5cc88df233daefc8ef9e00dfc1f0ee3f942903686b1c3c5b7208d480834c",
@@ -35,6 +35,7 @@
   "fpga/tests/proven_spi_reference.v": "57e8ce2adfe9f4d3c5769de0b90f9f79a3cc23755896fa579757e4d38790bb8f",
   "fpga/tests/tb_motor_spi.v": "f3ecc78664a0f86570c0c35724d122e82f91e6703c9bf5c8a4bce93c91bff076",
   "fpga/verify_motor_clocks.tcl": "1fa809deb99f26a9ab133a545715a62a03da31ec04dfcedb75acf82d8d36c15d",
+  "llm_usage.md": "0bdbc8e77aa20ca028869becbaac54229ce859da08dbad8fd514922ecf4c2bc9",
   "models/saved/motor_bias_mlp17_20261030_164321.mat": "70d0572654483cdf2fc9f48976ed47b21c420923481fbe120416ffc6bc2f4b3a",
   "models/saved/motor_bias_mlp17_image_v1.onnx": "b8c09e95466fc19af82dff6e09e69f086450ad639b600ffa736d30535f912ad1",
   "models/training_export/01_features_and_split_from_raw.m": "16ef4bd82e31966d7d00fb1ec19cbf6c55f0e07dc134a6b9375772fc7aa5f8d1",
