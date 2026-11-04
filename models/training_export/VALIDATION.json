@@ -1,0 +1,18 @@
+{
+  "sample_shape": [
+    1819,
+    2
+  ],
+  "class_count": 17,
+  "split_counts": [
+    1088,
+    357,
+    374
+  ],
+  "base_cycle_count": 107,
+  "base_cycles_disjoint": true,
+  "normalization_mean_max_difference": 1.0704632980810397e-16,
+  "normalization_std_max_difference": 8.326672684688674e-16,
+  "saved_test_input_max_difference": 0.0,
+  "checks": "Python核对存档数据及原历史文本；未执行MATLAB脚本/重训/导出/实板推理"
+}

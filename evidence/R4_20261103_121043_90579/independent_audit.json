@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "real_time": false,
+  "hardware_motor_control": false,
+  "cases": {
+    "no_feedback": {
+      "npu_cycles": 57,
+      "source_sample_error_A": 2.78029607869712e-06,
+      "post_action_npu_cycles": 0,
+      "confirmed_alarm": {
+        "seq": 38734,
+        "label": "B_+0.2A",
+        "source_time_s": 0.985978064778746
+      }
+    },
+    "with_feedback": {
+      "npu_cycles": 23,
+      "source_sample_error_A": 2.7195449234795888e-06,
+      "post_action_npu_cycles": 11,
+      "confirmed_alarm": {
+        "seq": 38791,
+        "label": "B_+0.2A",
+        "source_time_s": 0.985978064778746
+      }
+    }
+  },
+  "note": "Offline consistency audit of uploaded evidence, not independent physical authentication."
+}

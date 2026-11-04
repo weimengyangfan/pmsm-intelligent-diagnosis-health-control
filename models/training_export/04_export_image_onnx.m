@@ -1,0 +1,52 @@
+% 从上传的History.xml整理；详见README，未经本机MATLAB重跑。
+%% 补入独立文件选择入口；后续主体来自无error标记的batch110
+[modelFile,modelDir]=uigetfile('*.mat','选择已训练的部署MAT');
+assert(~isequal(modelFile,0),'已取消选择');
+
+%% History batch 110
+% 恢复原模型和测试数据
+pkg = load(fullfile(modelDir,modelFile), ...
+'deploy','reference');
+net = pkg.deploy.net;
+exportLayers = net.Layers;
+% 两个特征作为两个通道输入
+exportLayers(1) = imageInputLayer([1 1 2], ...
+'Normalization','none', ...
+'Name',net.Layers(1).Name);
+% 重建全连接层，清除旧输入尺寸，保留训练权重
+for k = 2:numel(exportLayers)
+oldLayer = net.Layers(k);
+if isa(oldLayer,'nnet.cnn.layer.FullyConnectedLayer')
+exportLayers(k) = fullyConnectedLayer( ...
+size(oldLayer.Weights,1), ...
+'Name',oldLayer.Name, ...
+'Weights',oldLayer.Weights, ...
+'Bias',oldLayer.Bias);
+end
+end
+netExport = assembleNetwork(exportLayers);
+% 输入顺序仍为：[标准化B相均值，标准化C相均值]
+testInput = single(pkg.reference.networkInput);
+imageInput = reshape(testInput.', ...
+[1 1 2 size(testInput,1)]);
+% 检查转换前后的输出
+scoreOriginal = predict(net,testInput);
+scoreExport = predict(netExport,imageInput);
+assert(isequal(size(scoreOriginal),size(scoreExport)), ...
+'两个网络的输出尺寸不同');
+maxError = max(abs( ...
+double(scoreOriginal(:))-double(scoreExport(:))));
+[~,classOriginal] = max(scoreOriginal,[],2);
+[~,classExport] = max(scoreExport,[],2);
+fprintf('最大概率差异：%.9g\n',maxError);
+fprintf('类别预测一致率：%.2f%%\n', ...
+100*mean(classOriginal==classExport));
+assert(maxError<1e-5 && ...
+all(classOriginal==classExport), ...
+'输出不一致，已停止导出');
+% 导出ONNX
+onnxPath = fullfile(modelDir, ...
+'motor_bias_mlp17_image_v1.onnx');
+exportONNXNetwork(netExport,onnxPath, ...
+'OpsetVersion',9);
+fprintf('ONNX导出成功：\n%s\n',onnxPath);

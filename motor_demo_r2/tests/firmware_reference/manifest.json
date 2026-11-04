@@ -1,0 +1,25 @@
+{
+  "notice": "Unchanged R1 sources for host tests only; not a Keil project or replacement firmware.",
+  "files": {
+    "demo.c": {
+      "original_relative_path": "STM32/Core/Src/demo.c",
+      "sha256": "24f5d9009dad8c9f67a1971941f09e381f2712fa9b2058c8f5211dab0b96274b"
+    },
+    "motor_raw.h": {
+      "original_relative_path": "STM32/Core/Src/motor_raw.h",
+      "sha256": "7c139bdb0fafba521dd4a35ebc1f5905ae6d41aaccf4904ce75908a4f469775a"
+    },
+    "demo.h": {
+      "original_relative_path": "STM32/Core/Inc/demo.h",
+      "sha256": "66ebd41b154c554d44a5b143ff99b6ffb864717de2976309321e8829bb27a301"
+    },
+    "board.h": {
+      "original_relative_path": "STM32/Core/Inc/board.h",
+      "sha256": "8d851d2076c085b4f3b22ba9b923ea3241af01582a0195ecde46a8f4566cefb3"
+    },
+    "mock_raw.c": {
+      "original_relative_path": "tests/mock_raw.c",
+      "sha256": "145dd4e6cc6f308e957b15cf2bdb3ec5607a2aa5d5d1dfd44e9addff3716bc77"
+    }
+  }
+}

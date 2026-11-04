@@ -1,0 +1,907 @@
+[
+  {
+    "source": "01_R4联动主线/motor_link_r4/matlab/R4.m",
+    "path": "motor_link_r4/matlab/R4.m",
+    "sha256": "22eb471dcdcd11107c5fc4926d38bf7e992dfdc580c91b3a9e4c6562419e2116"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/matlab/check_motor_link_r4.m",
+    "path": "motor_link_r4/matlab/check_motor_link_r4.m",
+    "sha256": "803f223df34bb2a371b4138997bc400665658b7fa1c3c2c05092b8049430e916"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/matlab/prepare_motor_link_r4.m",
+    "path": "motor_link_r4/matlab/prepare_motor_link_r4.m",
+    "sha256": "f659d81b4bd8b597c6b25b3cb14ba90f1fe0d20476e7904118812e2f0717add7"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/matlab/run_motor_link_r4.m",
+    "path": "motor_link_r4/matlab/run_motor_link_r4.m",
+    "sha256": "9740292b62c8cb4c968dd3fe4a2caa9613d1c1ba510c94ad57976048528b1ffd"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/matlab/test_r4_algorithms.m",
+    "path": "motor_link_r4/matlab/test_r4_algorithms.m",
+    "sha256": "10dd9e470f955478d3a2982efed4866cdb96e68d93e1ab251e3e2dfd16641f26"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/desktop/bridge.py",
+    "path": "motor_link_r4/desktop/bridge.py",
+    "sha256": "98ca588bc54fc6a68e8a13d49d2d6358d95e0bd360c172172ea03e1710195ffb"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/desktop/requirements.txt",
+    "path": "motor_link_r4/desktop/requirements.txt",
+    "sha256": "6fc0e434e5f297f060a31f23ea555bc9584cfd3edf8deb4a5623a0e832da0c7a"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/board/motor_link_service_r4.py",
+    "path": "motor_link_r4/board/motor_link_service_r4.py",
+    "sha256": "a34a1f4424946ea51ea384289d6b7a7b6cfa95894191fe7055990913caf4b0c8"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/board/r4_policy.py",
+    "path": "motor_link_r4/board/r4_policy.py",
+    "sha256": "aa43fe9d1a8eaef19df08b595632de037728b06345be2b65387837e7bb277fbd"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/tests/test_audit.py",
+    "path": "motor_link_r4/tests/test_audit.py",
+    "sha256": "4809acb672bde4167eae74677da0bac683936ac114426c740f11869fb4ab8fea"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/tests/test_contracts.py",
+    "path": "motor_link_r4/tests/test_contracts.py",
+    "sha256": "855aa5a1a1dd759d2d56a73d3cd1b88300d8559ad9fbf58c5ad16a0301e224a6"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/tests/test_wrapper.py",
+    "path": "motor_link_r4/tests/test_wrapper.py",
+    "sha256": "9433ee73b7d251a1f27d7db88d2357bb4322e1dd69d24740d9e88e2676772c1f"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/tools/audit_run.py",
+    "path": "motor_link_r4/tools/audit_run.py",
+    "sha256": "ac4d3db8b6cc6663b4453bb93dae209ca0724ab8586bf895160e07d483e90cfb"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/start_bridge.cmd",
+    "path": "motor_link_r4/start_bridge.cmd",
+    "sha256": "76e6c11fcebc38edb71237c2ca9ffcab0f60d415e184dfcd7af08e2bec64a6e3"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/install_pc_dependencies.cmd",
+    "path": "motor_link_r4/install_pc_dependencies.cmd",
+    "sha256": "dd14de9c9a1d85e4a778fb802ab08410e120bb8fcf12df84c1106fd9ea137aff"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/先看这里.md",
+    "path": "motor_link_r4/先看这里.md",
+    "sha256": "5559e3952f40712aef390d5d3b2676f070e7d861b763c8ab0ec2d56333107b74"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Inc/acceptance.h",
+    "path": "motor_raw_replay_v1/STM32/Core/Inc/acceptance.h",
+    "sha256": "f53cec03e9b6b8e4e958acd06d40fab90cc0cccb5f7090c3f556d93582d159f6"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Inc/board.h",
+    "path": "motor_raw_replay_v1/STM32/Core/Inc/board.h",
+    "sha256": "8d851d2076c085b4f3b22ba9b923ea3241af01582a0195ecde46a8f4566cefb3"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Inc/demo.h",
+    "path": "motor_raw_replay_v1/STM32/Core/Inc/demo.h",
+    "sha256": "66ebd41b154c554d44a5b143ff99b6ffb864717de2976309321e8829bb27a301"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Inc/fpga_bridge.h",
+    "path": "motor_raw_replay_v1/STM32/Core/Inc/fpga_bridge.h",
+    "sha256": "3a1e5c370f2e6979b07a5b685ac94aa8066e7cae71f5e640a2cc68a94ac144dc"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/acceptance.c",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/acceptance.c",
+    "sha256": "42420def2b22cb1e188083a36d292ebb8a931daf9fefa16fa8998e51b4522f38"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/board.c",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/board.c",
+    "sha256": "8712ac260acc2fca63b2fbe64704ff1a911c2e08c7a9cbacad610881708be67e"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/demo.c",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/demo.c",
+    "sha256": "24f5d9009dad8c9f67a1971941f09e381f2712fa9b2058c8f5211dab0b96274b"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/fpga_bridge.c",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/fpga_bridge.c",
+    "sha256": "96d157f12f0bdc09a3b35a0ffe0a4d658d4ba3edda4b9bb2b7493c7b213c8913"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/led_selftest.c",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/led_selftest.c",
+    "sha256": "562ccf49c39fbb86d563478a74db956e61771cc6ff7e9db1310521baace5d9d9"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/main.c",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/main.c",
+    "sha256": "745d34a6631440e6916ed0cee057bba2eb56b6ec5e0b354e4688a09dd8437aae"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Core/Src/motor_raw.h",
+    "path": "motor_raw_replay_v1/STM32/Core/Src/motor_raw.h",
+    "sha256": "7c139bdb0fafba521dd4a35ebc1f5905ae6d41aaccf4904ce75908a4f469775a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h",
+    "sha256": "6c7050bc45a952d63a367020a6568b1ab039c040dd3c0ba181b703342a11a3c8"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h",
+    "sha256": "13a76b267fceb37400f14d42a4c4ed3189e34b9cfb059c1c70b0419fda4dfb35"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h",
+    "sha256": "02c067d5a135f540c03215dc834b1e60a97bbd4e55bfd3994b0c82a15ea3012a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/LICENSE.md",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Device/ST/STM32F4xx/LICENSE.md",
+    "sha256": "dadb755f51d36614173b28c5790cb4a991e8f4cc822e5b634fd66a4f4145824d"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_common_tables.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_common_tables.h",
+    "sha256": "1101c588c5df595eb4f4cc157c67efec989e06d2061202db0269132141498e9a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_const_structs.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_const_structs.h",
+    "sha256": "0730e6d48e74f70ba1254088fbcc2e02c507fc1cd9ba9641f591674579ea8cf1"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_helium_utils.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_helium_utils.h",
+    "sha256": "01e30277b4b079a528265df6e4d0c6cdc13e939ec7ebb994d154f09ae70caef5"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_math.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_math.h",
+    "sha256": "fd2d5cea2e3a8550635c51850f554f60c5a2c225d904bd565799050a89379866"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_mve_tables.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_mve_tables.h",
+    "sha256": "d7658f217ce1696a79cef25d2e1c9f8603f3f5453b959014b30d70a584f19c5c"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_vec_math.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/arm_vec_math.h",
+    "sha256": "7020fc45952a6902ff49e11d205db4b53f856e49fef7a4da51b264b087974950"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cachel1_armv7.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cachel1_armv7.h",
+    "sha256": "c9fadfe7c8ff014f96d1bd2f445d22764702a5e2b6e0e1f1e9a0334dff573c0c"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_armcc.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_armcc.h",
+    "sha256": "7c372d38b5028e591fa8cb754ad86bcb0ba76c87326e7792728181fbf827fd07"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_armclang.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_armclang.h",
+    "sha256": "979a87379c3a2d7be34adab842b391d967fcf463162c54c8749d5a1149db0373"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_armclang_ltm.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_armclang_ltm.h",
+    "sha256": "c9c2ad6869db9c4c7d1c5842b09ac8aaed492c66efd197c190a79dda8e522a55"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_compiler.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_compiler.h",
+    "sha256": "869640702d811c4c63abb52206715c891a93fd03be954df5ad40d378355af3d6"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_gcc.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_gcc.h",
+    "sha256": "4c99eb8880070cbee3d6f1c32681959872334ae47970839883e168e47871a923"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_iccarm.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_iccarm.h",
+    "sha256": "65b7f71bd2e7bc5f31f050703dda2b81a83ff2c5d301bfbcc1a02d595edbd203"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_version.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/cmsis_version.h",
+    "sha256": "2de01ae2556a38eb82c389de23c701805ec63308cfbcf3f84cb12141589b0858"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_armv81mml.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_armv81mml.h",
+    "sha256": "c9501f874e5ac461b98adcf731aba5b091173964a8e8f5b7a42e694f14d2395a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_armv8mbl.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_armv8mbl.h",
+    "sha256": "b5a662723f65a9fe1fbde82b83681daec28aadb78c2dc95e531d6fb6bb396dde"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_armv8mml.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_armv8mml.h",
+    "sha256": "14d406fa61d649a1fffa526615d858b99c3cc33e00ccca9df3bdf7d55738c440"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm0.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm0.h",
+    "sha256": "5cc53e723ee0e97455233f8dee892940209e2fff66071d66d74bab56c528b199"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm0plus.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm0plus.h",
+    "sha256": "a19e24c136145b4c72630d0ab7c83a7aef010f3ba165e34c56a05057a2d9fed5"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm1.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm1.h",
+    "sha256": "c243c4afb291068fe7078d2911b2f0001e78a4d5466c26728611b06147d65c2b"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm23.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm23.h",
+    "sha256": "b6fb9bb5faedffe8eec563550e21dc9097c9f64956258b2af51e6d4d88ca4411"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm3.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm3.h",
+    "sha256": "f7841b44cf09cb59a685d65b09c5e3ac0ac6381db8121754dc9a42c6cbb2ca5e"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm33.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm33.h",
+    "sha256": "155f158e6134ef6af57784f2ce4142b3f94d33a76768fab27db0cd3b7961dc36"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm35p.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm35p.h",
+    "sha256": "c6c771c1c0b98fad9142c6111aeb087230db18c90a3bf3b5d2ccffc7ebf84023"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm4.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm4.h",
+    "sha256": "57c09de4b2404371d976cac744d21b49aa5bc429914d86e44e4fbbc87f5f403f"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm55.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm55.h",
+    "sha256": "c2b351bf92c9e3f8a1cf669acd188e12626a740c731b4700457e1e5bb494839a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm7.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_cm7.h",
+    "sha256": "fbe0bdf33247ebfc5e545e2f435836f48787bb76c08e84e2c17499cad3432cfe"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_sc000.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_sc000.h",
+    "sha256": "4ec2d6ff893658c6bb7b1c56e6256087f3a2ed1e662c226e4ba11cfaad28d05d"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_sc300.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/core_sc300.h",
+    "sha256": "feceeea0a3ca5a3a2c9f9afed88a9ab1c0130eb5ab98ca92938c72054de7cf8a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/mpu_armv7.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/mpu_armv7.h",
+    "sha256": "8c13a98345b16b001957c3d519631804b3685c9c8806de2bc482873246d4d10c"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/mpu_armv8.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/mpu_armv8.h",
+    "sha256": "1b043174f65b76759c9b0db6c8f396f19d9e66692305e0b3a840b2f05382eecf"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/pmu_armv8.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/pmu_armv8.h",
+    "sha256": "b412e29a0fbeb4b2f8b5c328fd7e27d6a7d4501f5145c0b819782ea9eae8b196"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/tz_context.h",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/Include/tz_context.h",
+    "sha256": "7fcc21fc190f6fd970390e9caaa6a86d72fd10f9edf4efab36f12aecf1a8baa0"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Drivers/CMSIS/LICENSE.txt",
+    "path": "motor_raw_replay_v1/STM32/Drivers/CMSIS/LICENSE.txt",
+    "sha256": "e03ba41d7fab20700769fe4118bab50d800cb74f990353a05d2f5fff1c228363"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/MDK-ARM/RTE/Device/STM32F407ZGTx/STM32F405_415_407_417_427_437_429_439.dbgconf",
+    "path": "motor_raw_replay_v1/STM32/MDK-ARM/RTE/Device/STM32F407ZGTx/STM32F405_415_407_417_427_437_429_439.dbgconf",
+    "sha256": "6cad85eacc0e21c594393904deea7162768d2e6a4f06bf1777cf8fa454d2b44e"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/MDK-ARM/RTE/Device/STM32F407ZGTx/STM32F405_415_407_417_427_437_429_439.dbgconf.base@1.0.1",
+    "path": "motor_raw_replay_v1/STM32/MDK-ARM/RTE/Device/STM32F407ZGTx/STM32F405_415_407_417_427_437_429_439.dbgconf.base@1.0.1",
+    "sha256": "6cad85eacc0e21c594393904deea7162768d2e6a4f06bf1777cf8fa454d2b44e"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/MDK-ARM/STM32F407_SPI_LED_DEMO.uvprojx",
+    "path": "motor_raw_replay_v1/STM32/MDK-ARM/STM32F407_SPI_LED_DEMO.uvprojx",
+    "sha256": "416aa303cc06e56490a596c24de36bd419591b6eeb23ec6d11706a4f32e0e4f1"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/MDK-ARM/stm32f407zg.sct",
+    "path": "motor_raw_replay_v1/STM32/MDK-ARM/stm32f407zg.sct",
+    "sha256": "0ab8447b2ce448a802508e3a32e755244c8f1a6d30c7e7459d70f191779aab78"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Startup/startup_stm32f407xx.s",
+    "path": "motor_raw_replay_v1/STM32/Startup/startup_stm32f407xx.s",
+    "sha256": "fee58e4c0dfe7986560c4d529b67c63c4e846b2ee8e62c49e8e0db701f2ea700"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/Startup/system_stm32f4xx.c",
+    "path": "motor_raw_replay_v1/STM32/Startup/system_stm32f4xx.c",
+    "sha256": "77362913e1fc29a495408fda17dbb2d62be50b8e7c7c1e60698d0777c187be48"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/STM32/THIRD_PARTY.md",
+    "path": "motor_raw_replay_v1/STM32/THIRD_PARTY.md",
+    "sha256": "821260bc91a1b9de3854468b6d72f33f2566636e030956640501612263a2471a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/dashboard.py",
+    "path": "motor_raw_replay_v1/desktop/dashboard.py",
+    "sha256": "8a599fda1eb34cf48d6f1873d9b636057de304ca162f2c0a53a16c1afc442af0"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/monitor.py",
+    "path": "motor_raw_replay_v1/desktop/monitor.py",
+    "sha256": "8ed8ffbc107df27c67afa74228d99f1aa58e24fbfaf90d64779b15fd17220835"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/motor_feature_protocol.py",
+    "path": "motor_raw_replay_v1/desktop/motor_feature_protocol.py",
+    "sha256": "76ee573410905665b9a9da93623218da11446a56b5e3491f30a8dd28cf4d8aa3"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/npu_view.py",
+    "path": "motor_raw_replay_v1/desktop/npu_view.py",
+    "sha256": "1579c8b1d9639fb1afbd96ff55591d8b4a7e122c5a9736d0b7c95bd23869312b"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/raw_cycles.json",
+    "path": "motor_raw_replay_v1/desktop/raw_cycles.json",
+    "sha256": "20d537d35f88f7355b9404ee739e472359567f3bf5943428ca1baf3f9b677cf1"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/raw_dashboard.py",
+    "path": "motor_raw_replay_v1/desktop/raw_dashboard.py",
+    "sha256": "853c9ab2d8d60e26e2a7ef4ef8c5508a329b5291fa46b008a4552f3b1a1c1e4a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/raw_protocol.py",
+    "path": "motor_raw_replay_v1/desktop/raw_protocol.py",
+    "sha256": "4ca50095d5214edfb0a2199bd4a57c87ae2a996e5e9f33e882afc8ef189bd338"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/requirements.txt",
+    "path": "motor_raw_replay_v1/desktop/requirements.txt",
+    "sha256": "6fc0e434e5f297f060a31f23ea555bc9584cfd3edf8deb4a5623a0e832da0c7a"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/samples.json",
+    "path": "motor_raw_replay_v1/desktop/samples.json",
+    "sha256": "db4760f6d9624a78078bda8177d84ad3c7d708175c4eae72a6dbff93338bb8b9"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/desktop/start.cmd",
+    "path": "motor_raw_replay_v1/desktop/start.cmd",
+    "sha256": "513818fc9c1ca8d7f3b3832455923608c1ca820d8cb3725e15add3b8cd66d636"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tests/mock_raw.c",
+    "path": "motor_raw_replay_v1/tests/mock_raw.c",
+    "sha256": "145dd4e6cc6f308e957b15cf2bdb3ec5607a2aa5d5d1dfd44e9addff3716bc77"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tests/verify_ansi_events.py",
+    "path": "motor_raw_replay_v1/tests/verify_ansi_events.py",
+    "sha256": "339e8390700f38d18a876aa03de92d5d679db487729e8b17ee2449189fbca6c0"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tests/verify_model_evidence.py",
+    "path": "motor_raw_replay_v1/tests/verify_model_evidence.py",
+    "sha256": "36da5e2557b5ccbd8ed607e1da0a02c585ca99264fe04cb55298f4882cf20780"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tests/verify_raw.py",
+    "path": "motor_raw_replay_v1/tests/verify_raw.py",
+    "sha256": "164d6eb016600e0d47190ba0f58667b7d0f0217e523dbc739e4e6d201a594ca8"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tests/verify_summary.py",
+    "path": "motor_raw_replay_v1/tests/verify_summary.py",
+    "sha256": "4a2e7cef2d5c090b2537e713b9159f213b409661a1382c9e6bbc0b83b12d807d"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tests/verify_transport.py",
+    "path": "motor_raw_replay_v1/tests/verify_transport.py",
+    "sha256": "e024effb3b331181d41350d3fa0cb170a600384a0874da1fbd09c3d17e6914f4"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/tools/build_cycles.py",
+    "path": "motor_raw_replay_v1/tools/build_cycles.py",
+    "sha256": "ccbaa5eebc7a546ab114ec55b482f647abd700db8d887b6277583ca7c7dca0a4"
+  },
+  {
+    "source": "03_F4原始波形与周期积分/motor_raw_replay_v1/先看这里.md",
+    "path": "motor_raw_replay_v1/先看这里.md",
+    "sha256": "993a846ca52d4bd0049d8f24f27b7e1b751ad26c6a220479c439cde280ccbcff"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/dashboard.py",
+    "path": "motor_demo_r2/desktop/dashboard.py",
+    "sha256": "4882eb7ab89fcd931e25c05b4461d2d2e591c8cb1acc7fb17a1addf681a8127f"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/demo_dashboard.py",
+    "path": "motor_demo_r2/desktop/demo_dashboard.py",
+    "sha256": "cd2dbf6caf0572cd9af0e81e22554e1a86c9c4c528cd53f3033897733cc11f79"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/experiment.py",
+    "path": "motor_demo_r2/desktop/experiment.py",
+    "sha256": "819d35faa4c79485b649a4f5bfbdcb52bc3d959cdb85fc6fd8bdc6993f9aaab3"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/monitor.py",
+    "path": "motor_demo_r2/desktop/monitor.py",
+    "sha256": "d6ffb434a2941061948a36d996d4bf607f17a613ee6c4498229ab2a95b9574bd"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/motor_feature_protocol.py",
+    "path": "motor_demo_r2/desktop/motor_feature_protocol.py",
+    "sha256": "76ee573410905665b9a9da93623218da11446a56b5e3491f30a8dd28cf4d8aa3"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/npu_view.py",
+    "path": "motor_demo_r2/desktop/npu_view.py",
+    "sha256": "65b9ca804aa40c2534483111cb30705ee6f2c3dfd969317f97c2cb767aff12ec"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/raw_cycles.json",
+    "path": "motor_demo_r2/desktop/raw_cycles.json",
+    "sha256": "20d537d35f88f7355b9404ee739e472359567f3bf5943428ca1baf3f9b677cf1"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/raw_dashboard.py",
+    "path": "motor_demo_r2/desktop/raw_dashboard.py",
+    "sha256": "39cae331ee661e360154d75c9a997f3025ae611f1e2826c5195241b37310483f"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/raw_protocol.py",
+    "path": "motor_demo_r2/desktop/raw_protocol.py",
+    "sha256": "4ca50095d5214edfb0a2199bd4a57c87ae2a996e5e9f33e882afc8ef189bd338"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/reporting.py",
+    "path": "motor_demo_r2/desktop/reporting.py",
+    "sha256": "342431ce199fdbcfdabf48502b5acd4fe7984ba46f7771a265d1f58d1dcb0e1a"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/requirements.txt",
+    "path": "motor_demo_r2/desktop/requirements.txt",
+    "sha256": "6fc0e434e5f297f060a31f23ea555bc9584cfd3edf8deb4a5623a0e832da0c7a"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/samples.json",
+    "path": "motor_demo_r2/desktop/samples.json",
+    "sha256": "db4760f6d9624a78078bda8177d84ad3c7d708175c4eae72a6dbff93338bb8b9"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/scenarios.json",
+    "path": "motor_demo_r2/desktop/scenarios.json",
+    "sha256": "0dc4c440d44e7e25282c1154bae6af2e60bb68af716ed787c21ffb342137cd68"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/desktop/start.cmd",
+    "path": "motor_demo_r2/desktop/start.cmd",
+    "sha256": "b0eac76324e822420691a7e284c7fe9ab7b02119267946534ecdbb4fe2b522b0"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/firmware_reference/board.h",
+    "path": "motor_demo_r2/tests/firmware_reference/board.h",
+    "sha256": "8d851d2076c085b4f3b22ba9b923ea3241af01582a0195ecde46a8f4566cefb3"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/firmware_reference/demo.c",
+    "path": "motor_demo_r2/tests/firmware_reference/demo.c",
+    "sha256": "24f5d9009dad8c9f67a1971941f09e381f2712fa9b2058c8f5211dab0b96274b"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/firmware_reference/demo.h",
+    "path": "motor_demo_r2/tests/firmware_reference/demo.h",
+    "sha256": "66ebd41b154c554d44a5b143ff99b6ffb864717de2976309321e8829bb27a301"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/firmware_reference/manifest.json",
+    "path": "motor_demo_r2/tests/firmware_reference/manifest.json",
+    "sha256": "26b8d64cc921b82d693646b838faf972d7dd73a0f323fa87319d79c2f87df71e"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/firmware_reference/mock_raw.c",
+    "path": "motor_demo_r2/tests/firmware_reference/mock_raw.c",
+    "sha256": "145dd4e6cc6f308e957b15cf2bdb3ec5607a2aa5d5d1dfd44e9addff3716bc77"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/firmware_reference/motor_raw.h",
+    "path": "motor_demo_r2/tests/firmware_reference/motor_raw.h",
+    "sha256": "7c139bdb0fafba521dd4a35ebc1f5905ae6d41aaccf4904ce75908a4f469775a"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_ansi_events.py",
+    "path": "motor_demo_r2/tests/verify_ansi_events.py",
+    "sha256": "339e8390700f38d18a876aa03de92d5d679db487729e8b17ee2449189fbca6c0"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_c_scenarios.py",
+    "path": "motor_demo_r2/tests/verify_c_scenarios.py",
+    "sha256": "a31c1ea13a94f758fe6d1810a1bf3a9365ee8404386781a12e1a1a854b562569"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_experiment.py",
+    "path": "motor_demo_r2/tests/verify_experiment.py",
+    "sha256": "ba3990dd7829fbc7f1a473c62c2119b62d76d1ca3888220205e3010c3230df0a"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_gui_flow.py",
+    "path": "motor_demo_r2/tests/verify_gui_flow.py",
+    "sha256": "ed234109c8720785f2650335e9b6398ffdad49b739777f05bacb4b50fe9cc152"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_model_evidence.py",
+    "path": "motor_demo_r2/tests/verify_model_evidence.py",
+    "sha256": "36da5e2557b5ccbd8ed607e1da0a02c585ca99264fe04cb55298f4882cf20780"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_summary.py",
+    "path": "motor_demo_r2/tests/verify_summary.py",
+    "sha256": "4a2e7cef2d5c090b2537e713b9159f213b409661a1382c9e6bbc0b83b12d807d"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/tests/verify_transport.py",
+    "path": "motor_demo_r2/tests/verify_transport.py",
+    "sha256": "e024effb3b331181d41350d3fa0cb170a600384a0874da1fbd09c3d17e6914f4"
+  },
+  {
+    "source": "02_R2上位机/motor_demo_r2/先看这里.md",
+    "path": "motor_demo_r2/先看这里.md",
+    "sha256": "9328a6a0f93cf1067246817791e328339aeac52afa45648694f01dea505a2421"
+  },
+  {
+    "source": "04_FPGA设计/motor_spi_stage1/rtl/motor_spi_core.v",
+    "path": "fpga/rtl/motor_spi_core.v",
+    "sha256": "784ca7b6dee01a180a5b341911857ff9c5f74c2639ccde2ee2fb539b87897111"
+  },
+  {
+    "source": "04_FPGA设计/motor_spi_stage1/rtl/motor_snapshot_cdc.v",
+    "path": "fpga/rtl/motor_snapshot_cdc.v",
+    "sha256": "35034ecf6cfe0d4e4393fc27437d973e9b00578ced1c8a2c7f5bc9c8bc733322"
+  },
+  {
+    "source": "04_FPGA设计/motor_spi_stage1/tests/tb_motor_spi.v",
+    "path": "fpga/tests/tb_motor_spi.v",
+    "sha256": "f3ecc78664a0f86570c0c35724d122e82f91e6703c9bf5c8a4bce93c91bff076"
+  },
+  {
+    "source": "04_FPGA设计/motor_spi_stage1/tests/proven_spi_reference.v",
+    "path": "fpga/tests/proven_spi_reference.v",
+    "sha256": "57e8ce2adfe9f4d3c5769de0b90f9f79a3cc23755896fa579757e4d38790bb8f"
+  },
+  {
+    "source": "04_FPGA设计/motor_spi_stage1/motor_spi_pins.xdc",
+    "path": "fpga/motor_spi_pins.xdc",
+    "sha256": "eb39e74491b302aa52cdf32ecb5cde0b548c9cb5c05f017bb3fc358a46d186e7"
+  },
+  {
+    "source": "04_FPGA设计/motor_spi_stage1/verify_motor_clocks.tcl",
+    "path": "fpga/verify_motor_clocks.tcl",
+    "sha256": "1fa809deb99f26a9ab133a545715a62a03da31ec04dfcedb75acf82d8d36c15d"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_npu_batch.py",
+    "path": "board/motor_npu_batch.py",
+    "sha256": "d3c5b71c83c21117bafe6f70107a3caf2baaf07eca98b7816fa6688bc1118872"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_spi_read.py",
+    "path": "board/motor_spi_read.py",
+    "sha256": "ad6e5d0d8eb8f86eaa501f1bec18f08d5a1516263ce4b9d8ae23a51281869fe8"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_monitor_service.py",
+    "path": "board/motor_monitor_service.py",
+    "sha256": "f573381cba26950c34fb3a9bdf0b7c39e98b1b062e0a610571c66b00ad80a28c"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_spi_classify.py",
+    "path": "board/motor_spi_classify.py",
+    "sha256": "9c906dda9969a2d4ca9c5e9fe8c7a1d920a0a72a01597b28f383cb2b8d35ac2a"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_link_service_r4.py",
+    "path": "board/motor_link_service_r4.py",
+    "sha256": "a34a1f4424946ea51ea384289d6b7a7b6cfa95894191fe7055990913caf4b0c8"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_feature_protocol.py",
+    "path": "board/motor_feature_protocol.py",
+    "sha256": "76ee573410905665b9a9da93623218da11446a56b5e3491f30a8dd28cf4d8aa3"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/r4_policy.py",
+    "path": "board/r4_policy.py",
+    "sha256": "aa43fe9d1a8eaef19df08b595632de037728b06345be2b65387837e7bb277fbd"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_npu_smoke.py",
+    "path": "board/motor_npu_smoke.py",
+    "sha256": "29cd50bdac2f6421470deab28365a411a647c524a64c43a0e6ee9d38f401ccdb"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_bias_mlp17_logits_ZG.json",
+    "path": "board/motor_bias_mlp17_logits_ZG.json",
+    "sha256": "8b7b5cc88df233daefc8ef9e00dfc1f0ee3f942903686b1c3c5b7208d480834c"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/motor_bias_mlp17_logits_ZG.raw",
+    "path": "board/motor_bias_mlp17_logits_ZG.raw",
+    "sha256": "57d6a1ed2860a2cacaefae456ca46875ae95d0ddd11cee6d42c68f8be9beb045"
+  },
+  {
+    "source": "05_特征通信与板端/板端现场版本/npu_testset.json",
+    "path": "board/npu_testset.json",
+    "sha256": "6e4d730e261795affd33195f01895eacb14091633be05be9af2fe446ddfe7be3"
+  },
+  {
+    "source": "06_AI模型/已有模型文件/motor_bias_mlp17_20261030_164321.mat",
+    "path": "models/saved/motor_bias_mlp17_20261030_164321.mat",
+    "sha256": "70d0572654483cdf2fc9f48976ed47b21c420923481fbe120416ffc6bc2f4b3a"
+  },
+  {
+    "source": "06_AI模型/已有模型文件/motor_bias_mlp17_image_v1.onnx",
+    "path": "models/saved/motor_bias_mlp17_image_v1.onnx",
+    "sha256": "b8c09e95466fc19af82dff6e09e69f086450ad639b600ffa736d30535f912ad1"
+  },
+  {
+    "source": "06_AI模型/训练与导出/01_features_and_split_from_raw.m",
+    "path": "models/training_export/01_features_and_split_from_raw.m",
+    "sha256": "16ef4bd82e31966d7d00fb1ec19cbf6c55f0e07dc134a6b9375772fc7aa5f8d1"
+  },
+  {
+    "source": "06_AI模型/训练与导出/02_restore_dataset_from_saved_model.m",
+    "path": "models/training_export/02_restore_dataset_from_saved_model.m",
+    "sha256": "655b08e4ab5173a90654713cffbcea8f876e44fe69632380d0645b87ddfc5642"
+  },
+  {
+    "source": "06_AI模型/训练与导出/03_baseline_train_and_save.m",
+    "path": "models/training_export/03_baseline_train_and_save.m",
+    "sha256": "e99fd1e6e77f65e202ced86f739bb4115ffe4776ea1e982b2c4d2c8afd91e61d"
+  },
+  {
+    "source": "06_AI模型/训练与导出/04_export_image_onnx.m",
+    "path": "models/training_export/04_export_image_onnx.m",
+    "sha256": "d5a94278161ab1cb860d909332ce96964a0a9761d6344de30d7d8649de4b25b6"
+  },
+  {
+    "source": "06_AI模型/训练与导出/05_export_logits_onnx.m",
+    "path": "models/training_export/05_export_logits_onnx.m",
+    "sha256": "a35d6f73b632218b5bde6d0187f749e4eee76b99ac6807e9f7e5f78bba8013bc"
+  },
+  {
+    "source": "06_AI模型/训练与导出/06_calibration_all_training_samples.m",
+    "path": "models/training_export/06_calibration_all_training_samples.m",
+    "sha256": "585f754dfc9ff5fd8ffc58b9092787922db71295274c1b50c98a8def950ed581"
+  },
+  {
+    "source": "06_AI模型/训练与导出/07_calibration_34_training_samples.m",
+    "path": "models/training_export/07_calibration_34_training_samples.m",
+    "sha256": "88fde5f194096fa177f70658975c6b4300b233ccd186f995c1165222d7d29852"
+  },
+  {
+    "source": "06_AI模型/训练与导出/08_historical_ZG_Host_validation.m",
+    "path": "models/training_export/08_historical_ZG_Host_validation.m",
+    "sha256": "aa7f823b373c42e649067f2574bfc2dbcf3a3a3bf37cf00373da1591961d1e62"
+  },
+  {
+    "source": "06_AI模型/训练与导出/09_historical_export_npu_testset.m",
+    "path": "models/training_export/09_historical_export_npu_testset.m",
+    "sha256": "11bdf00b66558c1e31a15cc2d6a530792c3b6c8bc4a704e09766aafe0235e509"
+  },
+  {
+    "source": "06_AI模型/训练与导出/FILES_SHA256.json",
+    "path": "models/training_export/FILES_SHA256.json",
+    "sha256": "f8ccd8d1e5fde3d19a6fbdb2d4e82e5fdd2718068ac7181b8ee442ba06dc4557"
+  },
+  {
+    "source": "06_AI模型/训练与导出/PROVENANCE.json",
+    "path": "models/training_export/PROVENANCE.json",
+    "sha256": "246bff5ef61432a27ee5da2f23ca8279e2c7a64e34c2762ceb612b75aeba68e4"
+  },
+  {
+    "source": "06_AI模型/训练与导出/README.md",
+    "path": "models/training_export/README.md",
+    "sha256": "1ff85ed06f7db4a5e806698ebd4450f2c197db4343808598481a01ad079322c6"
+  },
+  {
+    "source": "06_AI模型/训练与导出/VALIDATION.json",
+    "path": "models/training_export/VALIDATION.json",
+    "sha256": "d40f44cf7127e49005f74adc83548896af7efecc485b2938c6f6276eadf6faee"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_086.m",
+    "path": "models/training_export/history_batches/batch_086.m",
+    "sha256": "9ffc172a30b73cb75e44e80b693e03a3d71278fb45dce154e965426f042714c5"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_088.m",
+    "path": "models/training_export/history_batches/batch_088.m",
+    "sha256": "76fbf278d05cf1a12afca887bef3da79e67b4554d322485c3368c01a64c744af"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_089.m",
+    "path": "models/training_export/history_batches/batch_089.m",
+    "sha256": "387590ac287f7930c926d8dedc05d043266da7f9ec7d3fd3b3117cc05ca074a4"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_091.m",
+    "path": "models/training_export/history_batches/batch_091.m",
+    "sha256": "2be30736d9c5e2b064b59524172bcaf195e408d2edd4d3222ba5f28a8bb0c7a6"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_092.m",
+    "path": "models/training_export/history_batches/batch_092.m",
+    "sha256": "19e16530bb0a8efabcdf7663c2fb457b2ce153291ee38f8f742636a04b5a8486"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_093.m",
+    "path": "models/training_export/history_batches/batch_093.m",
+    "sha256": "ec96ab9d04a62535873142ff38de0e54f11883ab582a93ab2e83eb2586bbc121"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_094.m",
+    "path": "models/training_export/history_batches/batch_094.m",
+    "sha256": "35e47deb62d3976681b027e1569fdda2b8602d179629fb75647bc8a6f9604cee"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_095.m",
+    "path": "models/training_export/history_batches/batch_095.m",
+    "sha256": "2edd3021768e64b9d19d4f847b28be87e092158bf40ec883110ed3d193c207b8"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_096.m",
+    "path": "models/training_export/history_batches/batch_096.m",
+    "sha256": "07a12487ab015c4f41e3a391af58b6f251cb4c7383d1b6759e900a4001b5dd60"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_097.m",
+    "path": "models/training_export/history_batches/batch_097.m",
+    "sha256": "c0d4c5f66dd389a8ee8b8b52161310b4a77f95c12a3f6609f4ed3a32d4142d02"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_098.m",
+    "path": "models/training_export/history_batches/batch_098.m",
+    "sha256": "6024d9610d9690a623960a63aadcfa5196cb37772e8802604babc4877cc390f8"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_110.m",
+    "path": "models/training_export/history_batches/batch_110.m",
+    "sha256": "15852a95d60e746b520146054fcf00c2d56ec8ad357d8df525ed5f52041cb65e"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_111.m",
+    "path": "models/training_export/history_batches/batch_111.m",
+    "sha256": "98c40de958e259fd7cbd9f430be6a8ce1e5ef1e69ea2bb37de4f3d6cf9e8c83c"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_112.m",
+    "path": "models/training_export/history_batches/batch_112.m",
+    "sha256": "9427b3219d89f03b3d60984d42b4e99ddae4582326fe597c16c84ab043b9a878"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_115.m",
+    "path": "models/training_export/history_batches/batch_115.m",
+    "sha256": "279136f96e5f56b282cd01e47bd00f383cda5347e89852b00ad97a06173bf202"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_116.m",
+    "path": "models/training_export/history_batches/batch_116.m",
+    "sha256": "d10d9a0f3434177c8bb58359bf8189b64019ead0197a1348bf6b24f5093eef1c"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_117.m",
+    "path": "models/training_export/history_batches/batch_117.m",
+    "sha256": "07bd8c94ad9463df878df766ec9737899a17d32f031304f93384aa444d3fe1ae"
+  },
+  {
+    "source": "06_AI模型/训练与导出/history_batches/batch_118.m",
+    "path": "models/training_export/history_batches/batch_118.m",
+    "sha256": "fd4cfbd7d554cbe9ede62883ad19183dbaa5b31b1b181211514983a352e83edf"
+  },
+  {
+    "source": "07_Simulink原模型/FOC_LADRC_G474_bias_isolated_v2.slx",
+    "path": "simulink/FOC_LADRC_G474_bias_isolated_v2.slx",
+    "sha256": "60719034ffbd9bbc1c591efd5dae38b5182be173cfeb79419812cc38c6303fe8"
+  },
+  {
+    "source": "07_Simulink原模型/G474_FOC_LADRC.sldd",
+    "path": "simulink/G474_FOC_LADRC.sldd",
+    "sha256": "611aa71bda49b0a68c87d21e81a12672777c56a48e387e1b3003b703745b29d1"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/results/R4_20261103_121043_90579/status.json",
+    "path": "evidence/R4_20261103_121043_90579/status.json",
+    "sha256": "bab011384b6907d7b465b8352e7901ab6f9958cdeff3a9341bbc5a55f58ecab6"
+  },
+  {
+    "source": "01_R4联动主线/motor_link_r4/results/R4_20261103_121043_90579/action.json",
+    "path": "evidence/R4_20261103_121043_90579/action.json",
+    "sha256": "8670b71174dd5810ee6cd655587b10702eab5f8f2bfe45ff9befe584cfac788f"
+  },
+  {
+    "source": "09_R4证据复核/tools/audit_run.py",
+    "path": "verification/audit_run.py",
+    "sha256": "eb2575fc9496db8ad353772db8c92d5ea0a40a6d5394bb176296be8345f863c8"
+  },
+  {
+    "source": "01_作品全貌图.jpg",
+    "path": "docs/images/system.jpg",
+    "sha256": "46ac75b6497887d053f42d1a75285d6c7e71b86f75b557c880e466fbae7af5e2"
+  },
+  {
+    "source": "02_STM32F4开发板.jpg",
+    "path": "docs/images/stm32f4.jpg",
+    "sha256": "3c3aa5d951233bf3fe99cffa5f32e201f99f5deb896c70e97a37e636a6c119f2"
+  },
+  {
+    "source": "03_悟净Lite开发板.jpg",
+    "path": "docs/images/fpga.jpg",
+    "sha256": "c0db40385cf586877eb1066b7bb6c10f7392fe874f9d005e8a8495a9c4da15a0"
+  },
+  {
+    "source": "01_system.png",
+    "path": "docs/images/01_system.png",
+    "sha256": "7d5e7826d2d6b21363a307c33dafbf5b8277f0fdff064cefbab79567ae72f03e"
+  },
+  {
+    "source": "02_fpga.png",
+    "path": "docs/images/02_fpga.png",
+    "sha256": "61e927308f572fa182a1c1ab463746414e79bc466af2dece10b46b11bf24b829"
+  },
+  {
+    "source": "03_network.png",
+    "path": "docs/images/03_network.png",
+    "sha256": "cfcb5045927ca423cd50241795904274bbdf5d58b007877c06fe4b2c22d648b4"
+  },
+  {
+    "source": "06_response.png",
+    "path": "docs/images/06_response.png",
+    "sha256": "ce98724865bbeb13b7e01d171803ce8e13d32b39652b436df121e69084c7efcd"
+  },
+  {
+    "source": "永磁同步电机智能诊断与健康控制.pdf",
+    "path": "docs/永磁同步电机智能诊断与健康控制.pdf",
+    "sha256": "8165ce4d98a3c7c0c787152da103614bc8b645fd5eeb9f3671b4bfd76a336f82"
+  }
+]
