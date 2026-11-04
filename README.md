@@ -52,6 +52,10 @@ STM32计算周期特征，FPGA承担通信和状态快照，ARM调用厂商NPU�
 | [simulink](simulink/) | 已收到的SLX和数据字典 |
 | [verification](verification/) | 保存实验的独立离线一致性复核程序 |
 
+## 工程使用说明
+
+模型输入输出、算子与NPU调用、板端部署、桌面操作、R4运行及故障排查，见 [llm_usage.md](llm_usage.md)。
+
 ## 无板卡的软件检查
 
 ```bash
